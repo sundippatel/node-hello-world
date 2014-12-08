@@ -4,7 +4,7 @@ var http = require('http');
 var MongoClient = require('mongodb').MongoClient;
 
 // Connect to the db
-MongoClient.connect("mongodb://"+process.env("DB_HOST"), function(err, db) {
+MongoClient.connect("mongodb://"+process.env.DB_HOST, function(err, db) {
   if(!err) {
     console.log("We are connected");
   } else {
