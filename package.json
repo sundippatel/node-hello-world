@@ -1,0 +1,7 @@
+{
+  "name": "node-hello-world",
+  "dependencies": {
+    "101": "0.14.0",
+    "runnable": "git+ssh://git@github.com:CodeNow/runnable-api-client#v4.5.1"
+  }
+}
