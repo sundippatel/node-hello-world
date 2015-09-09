@@ -1,6 +1,6 @@
 {
   "name": "node-hello-world",
   "dependencies": {
-    "myapiclient": "git://github.com/sundippatel/myapiclient#0.1"
+    "myapiclient": "sundippatel/myapiclient#0.1.1"
   }
 }
