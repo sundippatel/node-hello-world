@@ -1,6 +1,6 @@
 {
   "name": "node-hello-world",
   "dependencies": {
-    "myapiclient": "sundippatel/myapiclient"
+    "myapiclient": "sundippatel/myapiclient#master"
   }
 }
