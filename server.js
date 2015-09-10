@@ -16,6 +16,6 @@ var http = require('http');
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/plain'});
   res.end('Hello Runnable! Again, Testing notifications!\n');
-  console.log("Check node_modules/.../node_modules for WORLDWORLDWORLD")
+  console.log("Ensure Runnablecache is active.")
 }).listen(80);
 console.log('Server running at http://127.0.0.1:80/');
